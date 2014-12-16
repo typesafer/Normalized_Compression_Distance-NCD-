@@ -1,7 +1,6 @@
 <?php
 /**
 Normalized Compression Distance (NCD)
-
 */
 function p($x, $y) { 
   $p1 = strlen(gzcompress($x));
